@@ -1,0 +1,30 @@
+Vivado Simulator 2018.1
+Copyright 1986-1999, 2001-2017 Xilinx, Inc. All Rights Reserved.
+Running: D:/programs/xilinx/Vivado/2018.1/bin/unwrapped/win64.o/xelab.exe -wto e8d146e5f0524a36a989fda611188bcc --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TestBench_behav xil_defaultlib.TestBench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 32 for port result_o [D:/OneDrive/Documents/Documents/computer organization/Lab3/Lab3.srcs/sources_1/imports/lab2_2/Simple_Single_CPU.v:196]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.ProgramCounter
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.Instr_Memory
+Compiling module xil_defaultlib.MUX_2to1(size=5)
+Compiling module xil_defaultlib.Reg_File
+Compiling module xil_defaultlib.MUX_2to1(size=1)
+Compiling module xil_defaultlib.Decoder
+Compiling module xil_defaultlib.ALU_Ctrl
+Compiling module xil_defaultlib.adv_instr_sel
+Compiling module xil_defaultlib.MUX_2to1(size=32)
+Compiling module xil_defaultlib.adv_instr
+Compiling module xil_defaultlib.branch_sel
+Compiling module xil_defaultlib.Sign_Extend
+Compiling module xil_defaultlib.Shift_Left_Two_32
+Compiling module xil_defaultlib.Data_Memory
+Compiling module xil_defaultlib.Simple_Single_CPU
+Compiling module xil_defaultlib.TestBench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TestBench_behav

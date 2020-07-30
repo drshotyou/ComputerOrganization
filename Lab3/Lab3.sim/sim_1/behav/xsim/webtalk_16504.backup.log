@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu May 24 09:48:34 2018
+# Process ID: 16504
+# Current directory: D:/OneDrive/Documents/Documents/computer organization/Lab3/Lab3.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/OneDrive/Documents/Documents/computer organization/Lab3/Lab3.sim/sim_1/behav/xsim/xsim.dir/TestBench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/OneDrive/Documents/Documents/computer organization/Lab3/Lab3.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/OneDrive/Documents/Documents/computer organization/Lab3/Lab3.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/OneDrive/Documents/Documents/computer -notrace
+couldn't read file "D:/OneDrive/Documents/Documents/computer": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Thu May 24 09:48:34 2018...

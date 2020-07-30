@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/ALU_Ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/Instr_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instr_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/MUX_2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/ProgramCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProgramCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/Reg_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reg_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/Shift_Left_Two_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shift_Left_Two_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/Sign_Extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sign_Extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/Simple_Single_CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Simple_Single_CPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/adv_instr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adv_instr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/adv_instr_sel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adv_instr_sel
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/branch_sel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module branch_sel
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/lab2_2/Test_Bench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TestBench

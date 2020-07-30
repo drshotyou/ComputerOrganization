@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/Documents/Documents/computer organization/lab1/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/Documents/Documents/computer organization/lab1/alu_bottom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_bottom
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/Documents/Documents/computer organization/lab1/alu_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/OneDrive/Documents/Documents/computer organization/lab1/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

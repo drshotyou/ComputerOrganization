@@ -1,0 +1,9 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+D:/OneDrive/Documents/Documents/computer organization/lab1/alu.v,1523742116,verilog,,D:/OneDrive/Documents/Documents/computer organization/lab1/alu_bottom.v,,alu,,,,,,,,
+D:/OneDrive/Documents/Documents/computer organization/lab1/alu_bottom.v,1523858180,verilog,,D:/OneDrive/Documents/Documents/computer organization/lab1/alu_top.v,,alu_bottom,,,,,,,,
+D:/OneDrive/Documents/Documents/computer organization/lab1/alu_top.v,1523858099,verilog,,D:/OneDrive/Documents/Documents/computer organization/lab1/testbench.v,,alu_top,,,,,,,,
+D:/OneDrive/Documents/Documents/computer organization/lab1/lab1.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+D:/OneDrive/Documents/Documents/computer organization/lab1/testbench.v,1523707629,verilog,,,,testbench,,,,,,,,

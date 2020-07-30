@@ -1,0 +1,20 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+D:/Documents/lab2_2/ALU.v,1525257136,verilog,,D:/Documents/lab2_2/ALU_Ctrl.v,,ALU,,,,,,,,
+D:/Documents/lab2_2/ALU_Ctrl.v,1525257899,verilog,,D:/Documents/lab2_2/Adder.v,,ALU_Ctrl,,,,,,,,
+D:/Documents/lab2_2/Adder.v,1525257126,verilog,,D:/Documents/lab2_2/Decoder.v,,Adder,,,,,,,,
+D:/Documents/lab2_2/Decoder.v,1525257153,verilog,,D:/Documents/lab2_2/Instr_Memory.v,,Decoder,,,,,,,,
+D:/Documents/lab2_2/Instr_Memory.v,1525260781,verilog,,D:/Documents/lab2_2/MUX_2to1.v,,Instr_Memory,,,,,,,,
+D:/Documents/lab2_2/MUX_2to1.v,1525257141,verilog,,D:/Documents/lab2_2/ProgramCounter.v,,MUX_2to1,,,,,,,,
+D:/Documents/lab2_2/ProgramCounter.v,1525257120,verilog,,D:/Documents/lab2_2/Reg_File.v,,ProgramCounter,,,,,,,,
+D:/Documents/lab2_2/Reg_File.v,1525257147,verilog,,D:/Documents/lab2_2/Shift_Left_Two_32.v,,Reg_File,,,,,,,,
+D:/Documents/lab2_2/Shift_Left_Two_32.v,1525257193,verilog,,D:/Documents/lab2_2/Sign_Extend.v,,Shift_Left_Two_32,,,,,,,,
+D:/Documents/lab2_2/Sign_Extend.v,1525257189,verilog,,D:/Documents/lab2_2/Simple_Single_CPU.v,,Sign_Extend,,,,,,,,
+D:/Documents/lab2_2/Simple_Single_CPU.v,1525255929,verilog,,D:/Documents/lab2_2/adv_instr.v,,Simple_Single_CPU,,,,,,,,
+D:/Documents/lab2_2/Test_Bench.v,1525255773,verilog,,,,TestBench,,,,,,,,
+D:/Documents/lab2_2/adv_instr.v,1525260698,verilog,,D:/Documents/lab2_2/adv_instr_sel.v,,adv_instr,,,,,,,,
+D:/Documents/lab2_2/adv_instr_sel.v,1525255784,verilog,,D:/Documents/lab2_2/branch_sel.v,,adv_instr_sel,,,,,,,,
+D:/Documents/lab2_2/branch_sel.v,1525255785,verilog,,D:/Documents/lab2_2/Test_Bench.v,,branch_sel,,,,,,,,
+D:/Documents/lab2_2/lab2_2.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
